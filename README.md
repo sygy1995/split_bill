@@ -1,1 +1,1 @@
-This script calculates split of restaurant bills
+This script calculates the split of restaurant bills.
